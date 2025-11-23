@@ -5,6 +5,11 @@
 
 ---
 
+## 튜토리얼 영상(편집 후 업로드 중)
+[보러 가기](https://youtube.com/@bkkhurx?si=H0AxVIRgpRUBlsWO)
+
+---
+
 ## 실행 환경
 - Ubuntu 22.04
 - 유니티
